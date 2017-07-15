@@ -1,0 +1,26 @@
+{
+  "name": "es8_playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server -d"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaeYeopHan/es8_playground.git"
+  },
+  "author": "jbee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JaeYeopHan/es8_playground/issues"
+  },
+  "homepage": "https://github.com/JaeYeopHan/es8_playground#readme",
+  "devDependencies": {
+    "babel-core": "^6.25.0",
+    "babel-loader": "^7.1.1",
+    "babel-preset-es2017": "^6.24.1",
+    "webpack": "^3.2.0",
+    "webpack-dev-server": "^2.5.1"
+  }
+}
